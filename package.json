@@ -1,0 +1,24 @@
+{
+  "name": "dylanporemba.com",
+  "version": "1.0.0",
+  "description": "Dylan Poremba's website",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "node ./node_modules/node-static/bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinTCoughlin/dylanporemba.com.git"
+  },
+  "author": "Kevin Coughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinTCoughlin/dylanporemba.com/issues"
+  },
+  "homepage": "https://github.com/KevinTCoughlin/dylanporemba.com#readme",
+  "dependencies": {
+    "node-static": "^0.7.10"
+  }
+}
